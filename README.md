@@ -1,9 +1,17 @@
-# Handwritten digit recognition with neural networks
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/banner-dark.svg">
+    <img src="docs/banner-light.svg" width="100%" alt="Handwritten Digit Recognition: neural networks in Keras and scikit-learn, 97.6% test accuracy on MNIST.">
+  </picture>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/MNIST_test_accuracy-97.6%25-2EA44F?style=flat-square" alt="MNIST test accuracy 97.6%">
+</p>
 
 Two small neural networks that classify handwritten digits (0–9): one in scikit-learn on 8×8 images, one in Keras on the full 28×28 MNIST dataset. Built in Google Colab in 2023–24 while learning deep learning.
 
